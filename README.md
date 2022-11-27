@@ -1,2 +1,2 @@
-# Proyect-PHP-AND-MYDQL
+# Proyect-PHP-AND-MYSQL
 Prototipo, Sistema de facturacion
